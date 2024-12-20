@@ -1,0 +1,16 @@
+.betting-page-container {
+    width: 600px; 
+    margin: 50px auto;
+    background: linear-gradient(to bottom, #1a0f0f, #2e1d1d);
+    color: #f1a7a7;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .content-box {
+    padding: 1rem;
+    text-align: center;
+    color: #ccc;
+  }
+  

@@ -1,0 +1,30 @@
+.nfl-status-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3f2919; 
+    padding: 10px 20px;
+    margin: 10px;
+
+}
+
+.nfl-logo-text {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+}
+
+.nfl-logo {
+    width: 40px; 
+    margin-right: 10px;
+}
+
+.pending-status {
+    background-color: #fff;
+    color: #333;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
